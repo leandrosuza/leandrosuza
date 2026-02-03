@@ -15,7 +15,7 @@
     <a href="https://github.com/leandrosuza" target="blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:leandro@exemplo.com" target="blank">
+    <a href="mailto:leandrodsl2004@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://twitter.com/leandrosuza" target="blank">
@@ -70,7 +70,7 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
             <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Tech Stack" />
           </a>
         </p>
-        <p align="center">Plataforma de negociação de músicas.</p>
+        <p align="center">Automação de opções binárias.</p>
       </td>
       <td width="50%">
         <h3 align="center">💬 WhatsApp Enterprise</h3>
@@ -118,7 +118,7 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
     <strong>Estou sempre aberto a aprender e colaborar!</strong>
   </p>
   <p>
-    📧 Email: <a href="mailto:leandro@exemplo.com">leandro@exemplo.com</a><br>
+    📧 Email: <a href="mailto:leandrodsl2004@gmail.com">leandrodsl2004@gmail.com</a><br>
     💼 LinkedIn: <a href="https://linkedin.com/in/leandrosuza">linkedin.com/in/leandrosuza</a>
   </p>
 </div>
