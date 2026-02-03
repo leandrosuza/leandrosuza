@@ -8,7 +8,7 @@
     </a>
   </h1>
 
-  <h3 align="center">💪 Posso fazer qualquer coisa se fizer de coração!</h3>
+  <h3 align="center"> Posso fazer qualquer coisa se fizer de coração!</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/seu-usuario" target="blank">
