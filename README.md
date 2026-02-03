@@ -42,36 +42,23 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
 ## 🛠️ Tecnologias que Estou Aprendendo
 
 ### Frontend
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend" />
 </div>
 
 ### Backend
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend" />
 </div>
 
 ### Ferramentas
-<div align="center">
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=git,vscode" alt="Ferramentas" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrosuza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosuza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=FFFFFF" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosuza&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Streak Stats" />
-</div>
-
----
-
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 <div align="center">
   <table>
