@@ -4,11 +4,11 @@
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Sou+[Seu+Nome];Desenvolvedor+Full+Stack" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Sou+Leandro;Programador+Jovem+e+Determinado" alt="Typing SVG" />
     </a>
   </h1>
 
-  <h3 align="center">Transformando ideias em código</h3>
+  <h3 align="center">💪 Posso fazer qualquer coisa se fizer de coração!</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/seu-usuario" target="blank">
@@ -31,36 +31,31 @@
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com experiência em criar aplicações web escaláveis e intuitivas, estou sempre buscando novos desafios e aprendendo as tecnologias mais recentes do mercado.
+Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qualquer coisa se fizer de coração. Tenho foco, vontade de aprender e determinação para superar qualquer obstáculo que venha a surgir.
 
-- 🎓 Formado em [Sua Formação]
-- � Atualmente trabalhando como [Seu Cargo Atual]
-- � Localizado em [Sua Cidade/Estado]
-- 🎯 Focado em desenvolvimento de aplicações web modernas
-- � Sempre aprendendo e me atualizando com novas tecnologias
+- 🎓 Em busca de conhecimento e experiência
+- 💪 Determinado a crescer e evoluir a cada dia
+- 🌍 Aberto a novos desafios e oportunidades
+- 🎯 Focado em aprender e me tornar um programador excepcional
+- 📚 Sempre estudando e praticando para melhorar
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologias que Estou Aprendendo
 
 ### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,sass" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend" />
 </div>
 
 ### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,graphql" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend" />
 </div>
 
-### Banco de Dados
+### Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase" alt="Database" />
-</div>
-
-### DevOps & Ferramentas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,linux,vscode,figma,postman" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Ferramentas" />
 </div>
 
 ---
@@ -78,48 +73,40 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com expe
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🚀 Projetos que Estou Desenvolvendo
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🛒 E-commerce Platform</h3>
+        <h3 align="center">🌱 Meu Primeiro Site</h3>
         <p align="center">
-          <a href="https://github.com/seu-usuario/ecommerce" target="_blank">
-            <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Tech Stack" />
-          </a>
+          <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
         </p>
-        <p align="center">Plataforma completa de e-commerce com carrinho, pagamentos e gestão de produtos.</p>
+        <p align="center">Site pessoal para praticar HTML e CSS.</p>
       </td>
       <td width="50%">
-        <h3 align="center">📱 Mobile App</h3>
+        <h3 align="center">� Lista de Tarefas</h3>
         <p align="center">
-          <a href="https://github.com/seu-usuario/mobile-app" target="_blank">
-            <img src="https://skillicons.dev/icons?i=reactnative,firebase" alt="Tech Stack" />
-          </a>
+          <img src="https://skillicons.dev/icons?i=javascript" alt="Tech Stack" />
         </p>
-        <p align="center">Aplicativo mobile cross-platform com autenticação e notificações.</p>
+        <p align="center">Aplicativo de to-do list com JavaScript.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📊 Dashboard Analytics</h3>
+        <h3 align="center">🎮 Jogo da Velha</h3>
         <p align="center">
-          <a href="https://github.com/seu-usuario/dashboard" target="_blank">
-            <img src="https://skillicons.dev/icons?i=vue,python,postgresql" alt="Tech Stack" />
-          </a>
+          <img src="https://skillicons.dev/icons?i=javascript" alt="Tech Stack" />
         </p>
-        <p align="center">Dashboard interativo para visualização de dados em tempo real.</p>
+        <p align="center">Jogo clássico para praticar lógica de programação.</p>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 API REST</h3>
+        <h3 align="center">📚 Estudos e Práticas</h3>
         <p align="center">
-          <a href="https://github.com/seu-usuario/api" target="_blank">
-            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Tech Stack" />
-          </a>
+          <img src="https://skillicons.dev/icons?i=python,javascript" alt="Tech Stack" />
         </p>
-        <p align="center">API RESTful escalável com documentação completa e testes.</p>
+        <p align="center">Repositório com meus estudos e exercícios.</p>
       </td>
     </tr>
   </table>
@@ -135,25 +122,15 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com expe
 
 ---
 
-## 🏅 Conquistas & Certificações
-
-- ✅ AWS Certified Developer Associate
-- ✅ Google Cloud Professional Cloud Developer
-- ✅ Meta Front-End Developer Professional Certificate
-- ✅ Full Stack Web Development Bootcamp
-
----
-
 ## 📫 Entre em Contato
 
 <div align="center">
   <p>
-    <strong>Estou sempre aberto a novas oportunidades e colaborações!</strong>
+    <strong>Estou sempre aberto a aprender e colaborar!</strong>
   </p>
   <p>
     📧 Email: <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a><br>
-    💼 LinkedIn: <a href="https://linkedin.com/in/seu-usuario">linkedin.com/in/seu-usuario</a><br>
-    🐦 Twitter: <a href="https://twitter.com/seu-usuario">@seu-usuario</a>
+    💼 LinkedIn: <a href="https://linkedin.com/in/seu-usuario">linkedin.com/in/seu-usuario</a>
   </p>
 </div>
 
