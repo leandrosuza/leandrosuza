@@ -8,19 +8,19 @@
     </a>
   </h1>
 
-  <h3 align="center"> Posso fazer qualquer coisa se fizer de coração!</h3>
+  <h3 align="center">Posso fazer qualquer coisa se fizer de coração!</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/seu-usuario" target="blank">
+    <a href="https://linkedin.com/in/leandrosuza" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/seu-usuario" target="blank">
+    <a href="https://github.com/leandrosuza" target="blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:seu-email@exemplo.com" target="blank">
+    <a href="mailto:leandro@exemplo.com" target="blank">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://twitter.com/seu-usuario" target="blank">
+    <a href="https://twitter.com/leandrosuza" target="blank">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
@@ -63,43 +63,47 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrosuza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosuza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosuza&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🚀 Projetos que Estou Desenvolvendo
+## 🚀 Projetos em Destaque
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌱 Meu Primeiro Site</h3>
+        <h3 align="center">� Tunestrade</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
+          <a href="https://github.com/leandrosuza/tunestrade" target="_blank">
+            <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Tech Stack" />
+          </a>
         </p>
-        <p align="center">Site pessoal para praticar HTML e CSS.</p>
+        <p align="center">Plataforma de negociação de músicas.</p>
       </td>
       <td width="50%">
-        <h3 align="center">� Lista de Tarefas</h3>
+        <h3 align="center">💬 WhatsApp Enterprise</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=javascript" alt="Tech Stack" />
+          <a href="https://github.com/leandrosuza/whatsapp-enterprise" target="_blank">
+            <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Tech Stack" />
+          </a>
         </p>
-        <p align="center">Aplicativo de to-do list com JavaScript.</p>
+        <p align="center">Solução empresarial para WhatsApp.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🎮 Jogo da Velha</h3>
+        <h3 align="center">� Meu Primeiro Site</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=javascript" alt="Tech Stack" />
+          <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
         </p>
-        <p align="center">Jogo clássico para praticar lógica de programação.</p>
+        <p align="center">Site pessoal para praticar HTML e CSS.</p>
       </td>
       <td width="50%">
         <h3 align="center">📚 Estudos e Práticas</h3>
@@ -117,7 +121,7 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandrosuza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ---
@@ -129,8 +133,8 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
     <strong>Estou sempre aberto a aprender e colaborar!</strong>
   </p>
   <p>
-    📧 Email: <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a><br>
-    💼 LinkedIn: <a href="https://linkedin.com/in/seu-usuario">linkedin.com/in/seu-usuario</a>
+    📧 Email: <a href="mailto:leandro@exemplo.com">leandro@exemplo.com</a><br>
+    💼 LinkedIn: <a href="https://linkedin.com/in/leandrosuza">linkedin.com/in/leandrosuza</a>
   </p>
 </div>
 
