@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Olá!+Sou+Leandro;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </h1>
 
-  <h3 align="center">Posso fazer qualquer coisa se fizer de coração!</h3>
+  <h3 align="center">Uma bagunça organizada que funciona :)</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/leandrosuza" target="blank">
