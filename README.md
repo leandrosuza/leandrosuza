@@ -79,9 +79,6 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
       <td width="50%">
         <h3 align="center">🎵 Tunestrade</h3>
         <p align="center">
-          <img src="https://drive.google.com/uc?export=view&id=1esuy3rU3OOJwpiI7jCI3L_i_2bTaWxwQ" alt="Tunestrade" width="300" />
-        </p>
-        <p align="center">
           <a href="https://github.com/leandrosuza/tunestrade" target="_blank">
             <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Tech Stack" />
           </a>
