@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+Sou+Leandro;Programador+Jovem+e+Determinado" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Olá!+Sou+Leandro;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </h1>
 
   <h3 align="center">Posso fazer qualquer coisa se fizer de coração!</h3>
