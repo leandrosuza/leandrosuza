@@ -9,7 +9,7 @@
   <h3 align="center">Uma bagunça organizada que funciona :)</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/leandrosuza" target="blank">
+    <a href="https://www.linkedin.com/in/leandro-souza-a8266425b/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/leandrosuza" target="blank">
@@ -17,9 +17,6 @@
     </a>
     <a href="mailto:leandrodsl2004@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://twitter.com/leandrosuza" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
 
@@ -119,7 +116,7 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
   </p>
   <p>
     📧 Email: <a href="mailto:leandrodsl2004@gmail.com">leandrodsl2004@gmail.com</a><br>
-    💼 LinkedIn: <a href="https://linkedin.com/in/leandrosuza">linkedin.com/in/leandrosuza</a>
+    💼 LinkedIn: <a href="https://www.linkedin.com/in/leandro-souza-a8266425b/">linkedin.com/in/leandro-souza-a8266425b</a>
   </p>
 </div>
 
