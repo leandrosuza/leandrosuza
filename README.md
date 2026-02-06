@@ -55,59 +55,6 @@ Sou um programador jovem apaixonado por tecnologia! Acredito que posso fazer qua
 
 ---
 
-##  Projetos em Destaque
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎵 Tunestrade</h3>
-        <p align="center">
-          <a href="https://github.com/leandrosuza/tunestrade" target="_blank">
-            <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Tech Stack" />
-          </a>
-        </p>
-        <p align="center">Automação de opções binárias.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">💬 WhatsApp Enterprise</h3>
-        <p align="center">
-          <a href="https://github.com/leandrosuza/whatsapp-enterprise" target="_blank">
-            <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Tech Stack" />
-          </a>
-        </p>
-        <p align="center">Solução empresarial para WhatsApp.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌱 Meu Primeiro Site</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
-        </p>
-        <p align="center">Site pessoal para praticar HTML e CSS.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📚 Estudos e Práticas</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,javascript" alt="Tech Stack" />
-        </p>
-        <p align="center">Repositório com meus estudos e exercícios.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandrosuza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
 ## 📫 Entre em Contato
 
 <div align="center">
